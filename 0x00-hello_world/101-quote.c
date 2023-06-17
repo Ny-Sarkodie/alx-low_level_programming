@@ -1,4 +1,5 @@
 #include <unistd.h>
+
 /**
  * main - Entry point of the program
  *
@@ -15,3 +16,4 @@ int main(void)
 
 	return (1);
 }
+
